@@ -5,7 +5,7 @@ import { useLibraryResources } from '../composables/useLibraryResources';
 
 import Button from 'dashboard/components-next/button/Button.vue';
 import Input from 'dashboard/components-next/input/Input.vue';
-import Textarea from 'dashboard/components-next/textarea/Textarea.vue';
+import Textarea from 'dashboard/components-next/textarea/TextArea.vue';
 import SelectMenu from 'dashboard/components-next/selectmenu/SelectMenu.vue';
 import FileUpload from 'vue-upload-component';
 
