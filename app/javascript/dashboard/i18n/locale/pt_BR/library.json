@@ -1,0 +1,68 @@
+{
+  "LIBRARY": {
+    "HEADER": {
+      "TITLE": "Biblioteca",
+      "SEARCH_TITLE": "Resultados da Busca",
+      "ADD_RESOURCE": "Adicionar Recurso",
+      "SEARCH_PLACEHOLDER": "Buscar recursos..."
+    },
+    "EMPTY_STATE": {
+      "TITLE": "Bem-vindo à Biblioteca",
+      "DESCRIPTION": "Aqui você pode organizar e gerenciar seus recursos de conhecimento. Adicione seu primeiro recurso para começar."
+    },
+    "EMPTY_SEARCH": {
+      "TITLE": "Nenhum recurso encontrado",
+      "DESCRIPTION": "Não encontramos nenhum recurso que corresponda aos seus critérios de busca. Tente ajustar os termos de busca."
+    },
+    "CARD": {
+      "CREATED_ON": "Criado em",
+      "VIEW": "Visualizar",
+      "EDIT": "Editar",
+      "DELETE": "Excluir"
+    },
+    "PAGINATION_FOOTER": {
+      "SHOWING": "Mostrando {from} a {to} de {count} recursos"
+    },
+    "FORM": {
+      "ADD_TITLE": "Adicionar Novo Recurso",
+      "EDIT_TITLE": "Editar Recurso",
+      "TITLE_LABEL": "Título",
+      "TITLE_PLACEHOLDER": "Digite o título do recurso...",
+      "DESCRIPTION_LABEL": "Descrição",
+      "DESCRIPTION_PLACEHOLDER": "Digite uma breve descrição...",
+      "CONTENT_LABEL": "Conteúdo",
+      "CONTENT_PLACEHOLDER": "Digite o conteúdo do recurso...",
+      "CUSTOM_ATTRIBUTES_LABEL": "Atributos Personalizados",
+      "CUSTOM_ATTRIBUTES_ADD": "Adicionar Atributo",
+      "CUSTOM_ATTRIBUTES_EMPTY": "Nenhum atributo personalizado adicionado ainda.",
+      "CUSTOM_ATTRIBUTES_KEY_PLACEHOLDER": "Chave (ex: preco)",
+      "CUSTOM_ATTRIBUTES_LABEL_PLACEHOLDER": "Rótulo (ex: Preço)",
+      "CUSTOM_ATTRIBUTES_VALUE_PLACEHOLDER": "Valor (ex: R$ 10,00)",
+      "CUSTOM_ATTRIBUTES_REMOVE": "Remover",
+      "RESOURCE_TYPE_LABEL": "Tipo de Recurso",
+      "RESOURCE_TYPE_TEXT": "Texto",
+      "RESOURCE_TYPE_IMAGE": "Imagem",
+      "RESOURCE_TYPE_VIDEO": "Vídeo",
+      "RESOURCE_TYPE_AUDIO": "Áudio",
+      "RESOURCE_TYPE_PDF": "PDF",
+      "RESOURCE_TYPE_WEB_PAGE": "Página Web",
+      "URL_LABEL": "URL",
+      "URL_PLACEHOLDER": "Digite a URL da página web...",
+      "FILE_UPLOAD_PLACEHOLDER": "Clique para selecionar um arquivo ou arraste e solte aqui",
+      "FILE_LABEL": "Arquivo",
+      "SELECT_FILE": "Selecionar Arquivo",
+      "FILE_UPLOADED": "Arquivo carregado com sucesso",
+      "FILE_ATTACHED": "Arquivo anexado",
+      "UPLOADING_FILE": "Carregando arquivo...",
+      "SAVE": "Salvar Recurso",
+      "UPDATE": "Atualizar Recurso",
+      "CANCEL": "Cancelar"
+    },
+    "DELETE": {
+      "CONFIRM_TITLE": "Excluir Recurso",
+      "CONFIRM_MESSAGE": "Tem certeza de que deseja excluir este recurso? Esta ação não pode ser desfeita.",
+      "CONFIRM_DELETE": "Excluir",
+      "CANCEL": "Cancelar"
+    }
+  }
+}
