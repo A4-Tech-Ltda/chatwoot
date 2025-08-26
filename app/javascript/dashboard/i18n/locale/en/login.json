@@ -1,6 +1,6 @@
 {
   "LOGIN": {
-    "TITLE": "Login to chat console",
+    "TITLE": "Login to DealDesk",
     "EMAIL": {
       "LABEL": "Email",
       "PLACEHOLDER": "example{'@'}companyname.com",
